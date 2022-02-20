@@ -8,19 +8,6 @@
     <subtitle>MixAudio Docs Blog</subtitle>
     <icon>https://mixaudio.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://mixaudio.github.io/blog/welcome"/>
-        <updated>2022-02-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome!</p><p><a href="https://mixaudio.github.io/docs/user-manuals" target="_blank" rel="noopener noreferrer">User manuals</a> Explains why MixAudio was built.</p><p><a href="https://mixaudio.github.io/docs/HowTo/merge-multiple-audio" target="_blank" rel="noopener noreferrer">How To</a> Tells the way to use it.</p><p><a href="https://mixaudio.github.io/doc/privacy" target="_blank" rel="noopener noreferrer">Privacy</a> Explains how we protect your privacy.</p><p>Enjoy !</p>]]></content>
-        <author>
-            <name>MixAudio</name>
-            <uri>https://github.com/mixaudio</uri>
-        </author>
-        <category label="Welcome" term="Welcome"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Merge is up]]></title>
         <id>merge-is-up</id>
         <link href="https://mixaudio.github.io/blog/merge-is-up"/>
@@ -32,5 +19,18 @@
             <uri>https://github.com/mixaudio</uri>
         </author>
         <category label="release" term="release"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://mixaudio.github.io/blog/welcome"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome!</p><p><a href="https://mixaudio.github.io/docs/user-manuals" target="_blank" rel="noopener noreferrer">User manuals</a> Explains why MixAudio was built.</p><p><a href="https://mixaudio.github.io/docs/HowTo/merge-multiple-audio" target="_blank" rel="noopener noreferrer">How To</a> Tells the way to use it.</p><p><a href="https://mixaudio.github.io/doc/privacy" target="_blank" rel="noopener noreferrer">Privacy</a> Explains how we protect your privacy.</p><p>Enjoy !</p>]]></content>
+        <author>
+            <name>MixAudio</name>
+            <uri>https://github.com/mixaudio</uri>
+        </author>
+        <category label="Welcome" term="Welcome"/>
     </entry>
 </feed>

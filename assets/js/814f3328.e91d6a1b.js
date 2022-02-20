@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmixaudio_doc=self.webpackChunkmixaudio_doc||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome"},{"title":"Merge is up","permalink":"/blog/merge-is-up"}]}')}}]);
