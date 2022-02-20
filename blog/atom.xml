@@ -8,19 +8,6 @@
     <subtitle>MixAudio Docs Blog</subtitle>
     <icon>https://mixaudio.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Merge is up]]></title>
-        <id>merge-is-up</id>
-        <link href="https://mixaudio.github.io/blog/merge-is-up"/>
-        <updated>2022-02-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New function release today.]]></summary>
-        <content type="html"><![CDATA[<p>New function release today.</p><p>You can use MixAudio bot to merge multiple audio into a file now !</p><p>Send a transcript that contains a group of audios to MixAudio bot to get started.</p><p>Enjoy!</p>]]></content>
-        <author>
-            <name>MixAudio</name>
-            <uri>https://github.com/mixaudio</uri>
-        </author>
-        <category label="release" term="release"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://mixaudio.github.io/blog/welcome"/>
@@ -32,5 +19,18 @@
             <uri>https://github.com/mixaudio</uri>
         </author>
         <category label="Welcome" term="Welcome"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge is up]]></title>
+        <id>merge-is-up</id>
+        <link href="https://mixaudio.github.io/blog/merge-is-up"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New function release today.]]></summary>
+        <content type="html"><![CDATA[<p>New function release today.</p><p>You can use MixAudio bot to merge multiple audio into a file now !</p><p>Send a transcript that contains a group of audios to MixAudio bot to get started.</p><p>Enjoy!</p>]]></content>
+        <author>
+            <name>MixAudio</name>
+            <uri>https://github.com/mixaudio</uri>
+        </author>
+        <category label="release" term="release"/>
     </entry>
 </feed>
