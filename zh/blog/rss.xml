@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MixAudio Docs Blog</title>
+        <link>https://mixaudio.github.io/zh/blog</link>
+        <description>MixAudio Docs Blog</description>
+        <lastBuildDate>Sun, 20 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Merge is up]]></title>
+            <link>https://mixaudio.github.io/zh/blog/merge-is-up</link>
+            <guid>merge-is-up</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[New function release today.]]></description>
+            <content:encoded><![CDATA[<p>New function release today.</p><p>You can use MixAudio bot to merge multiple audio into a file now !</p><p>Send a transcript that contains a group of audios to MixAudio bot to get started.</p><p>Enjoy!</p>]]></content:encoded>
+            <category>release</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://mixaudio.github.io/zh/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome!]]></description>
+            <content:encoded><![CDATA[<p>Welcome!</p><p><a href="https://mixaudio.github.io/docs/user-manuals" target="_blank" rel="noopener noreferrer">User manuals</a> Explains why MixAudio was built.</p><p><a href="https://mixaudio.github.io/docs/HowTo/merge-multiple-audio" target="_blank" rel="noopener noreferrer">How To</a> Tells the way to use it.</p><p><a href="https://mixaudio.github.io/doc/privacy" target="_blank" rel="noopener noreferrer">Privacy</a> Explains how we protect your privacy.</p><p>Enjoy !</p>]]></content:encoded>
+            <category>Welcome</category>
+        </item>
+    </channel>
+</rss>

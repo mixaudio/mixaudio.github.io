@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmixaudio_doc=self.webpackChunkmixaudio_doc||[]).push([[10],{2724:function(e){e.exports=JSON.parse('{"allTagsPath":"/hk/blog/tags","slug":"/hk/blog/tags/welcome","name":"Welcome","count":1,"permalink":"/hk/blog/tags/welcome"}')}}]);
